@@ -19,28 +19,10 @@
   ],
   "trabalho": [
     {
-      "cargo": "Desenvolvedor Web (Angular)",
-      "local": "Dell Lead",
+      "cargo": "Especialista Técnico de TI - Desenvolvedor",
+      "local": "BNB",
 	  "duracao": "Ago, 2021 - Atualmente",
-	  "comentario": "Construir aplicação frontend utilizando Angular 8+ com integração via REST API. Realizar atividades seguindo em metodologia ágil. Trabalhar em projeto com equipe multidisciplinar. Participar de reuniões com o cliente. Aptidão à cultura de agilidade e feedbacks."
-    },
-	{
-      "cargo": "Analista de Sistemas Java",
-      "local": "Engesoftware/BNB",
-	  "duracao": "Abr, 2020 - Ago, 2021",
-	  "comentario": "Atuação na equipe de incidentes de sistemas de crédito. Desenvolvimento/Manutenção de ferramentas em Angular/Java para atuação da equipe e controle de incidentes. Análise e Investigação de incidentes dos sistemas em JAVA para elaboração de soluções. Atuação de manutenção direta nas bases SQL e DB2"
-    },
-	{
-      "cargo": "Desenvolvedor Web (Estágio)",
-      "local": "Aspec Informática",
-	  "duracao": "Out, 2019 - Apr, 2020",
-	  "comentario": "Manutenção, Criação e Evolução dos Sistemas WEB da empresa, Intranet e Website, utilizando: WordPress, Java, JS, Spring Boot e Angular"
-    },
-	{
-      "cargo": "Auxiliar de Governaça de TI (Estágio)",
-      "local": "Banco do Nordeste do Brail (BNB)",
-	  "duracao": "Out, 2017 - Out, 2019",
-	  "comentario": "Gerar relatórios com o Microsoft Excel e Power BI (Business Intelligence). Atender demandas para liberação de acessos e criação de matrículas. Consultar entregas no banco de dados (ClearQuest e Access). Testar funcionalidades de alguns sistemas internos. Dar suporte à governança de TI de modo geral"
+	  "comentario": "Desenvolvimento de aplicações .NET e React"
     }
   ],
   "habilidades": [
@@ -66,7 +48,7 @@
     },
 	{
       "name": "C#",
-      "porcentagem": 60
+      "porcentagem": 90
     },
 	{
       "name": "Python",
@@ -81,7 +63,7 @@
     "nome": "Joel Felipe Araujo Damasceno",
 	"idade": 29,
 	"email": "joelfelipe@gmail.com",
-	"telefone": "+55 (85) 9 8801-6475 (Wpp)",
+	"telefone": null,
 	"endereco": "R. das Carnaúbas, 351, B. Jasmim, Ap 505 - Passaré - Fortaleza/CE - Brasil",
 	"sobre": "Olá! Me chamo Joel Felipe. Sou graduado em Ciência da Computação e apaixonado por Web Design e Desenvolvimento Web. Sou um desenvolvedor front-end habilidoso. Atualmente estudo C# para minha formação de desenvolvedor full-stack. Contudo também estou acostumado a trabalhar com tecnologias Java.",
 	"form": "https://formspree.io/f/mgerdkyl",
